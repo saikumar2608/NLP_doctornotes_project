@@ -7,7 +7,7 @@ The goal is not to predict a final diagnosis, but to automatically assign clinic
 
 The project emphasizes clinical realism, explainability, and rigorous evaluation, including external validation and error analysis.
 
-Problem Statement
+**Problem Statement**
 
 Clinical notes in Electronic Health Records (EHRs) are largely unstructured and vary widely in writing style, length, and terminology. While structured diagnosis codes exist, they are often unavailable or delayed in real-time workflows.
 
@@ -15,7 +15,7 @@ This project addresses the following problem:
 
 Can we reliably classify free-text SOAP notes into high-level disease categories using classical NLP and machine-learning techniques?
 
-Dataset
+**Dataset**
 Primary Dataset
 
 ~10,000 de-identified SOAP-style clinical notes
