@@ -1,0 +1,28 @@
+category,case_title,clean_text
+general,Carbuncle,"Adult with painful swelling, redness, and pus over lower back for 10 days, fever present. Abscess with induration and discharge. Labs: elevated glucose and platelets. Treated with IV antibiotics, analgesics, and incision & drainage."
+general,Cellulitis – Right Foot,"Adult with pain, redness, swelling, fever, and serous discharge from right leg. Labs: leukocytosis, neutrophilia, low albumin. Managed with IV fluids, antibiotics, and fasciotomy with drainage."
+general,Acute-on-Chronic Dacryocystitis,"Adult with pain, swelling, tearing, and tenderness near medial canthus for 3 days. Mild fever. Treated with IV antibiotics, topical therapy, NSAIDs."
+general,Dysmenorrhea With Ovarian Cyst,"Reproductive-age woman with severe lower abdominal pain radiating to back and heavy bleeding. Ultrasound shows simple ovarian cyst. Treated with antifibrinolytics, NSAIDs, and supportive care."
+general,Broad Ligament Fibroid,Reproductive-age woman with pelvic pain or heavy bleeding. Ultrasound confirms broad ligament fibroid. Managed with analgesia and planned surgery.
+general,Term Pregnancy – LSCS,"Pregnant woman at term undergoing caesarean section for obstetric indications. Post-op care with antibiotics, fluids, uterotonics."
+general,Acute Fissure in Ano,"Adult with severe anal pain during defecation and fresh bleeding. Exam: linear anal ulcer. Managed with sitz bath, stool softeners, topical anesthetics."
+general,Lymphangitis,"Adult with painful red streak along limb from distal infection, fever possible. Treated with systemic antibiotics, limb elevation."
+general,Right Eye Dacryostenosis,"Chronic tearing with regurgitation on pressure; nasolacrimal duct obstruction. Managed with massage, topical antibiotics, surgical probing if needed."
+general,Left Eye Cataract,Gradual painless visual loss; lens opacity on exam. Managed with cataract extraction and IOL implantation.
+general,Chronic Tonsillitis,"Recurrent sore throats, halitosis, tonsillar enlargement with crypts. Managed with antibiotics or tonsillectomy."
+general,Henoch–Schönlein Purpura,"Child with purpuric rash, joint pain, abdominal pain. Possible hematuria. Managed with hydration, monitoring, steroids if severe."
+general,Severe Anaemia,"Fatigue, dyspnea, pallor; labs show very low hemoglobin. Managed with supplementation and/or transfusion after identifying cause."
+cardiac,Rheumatic Carditis With MR,"Child with fever, throat pain, tachycardia, and pansystolic murmur. Labs: elevated inflammatory markers. Managed with antibiotics, beta-blocker, mucolytics, and supportive care."
+respiratory,COPD Exacerbation,"Older adult with cough, fever, wheezing, and dyspnea for 15 days. Diagnosed COPD exacerbation; treated with IV antibiotics, steroids, bronchodilator nebulization."
+respiratory,Streptococcal Bronchopneumonia,"Child with fever, tachypnea, wheeze. Culture positive for Streptococcus pneumoniae. Labs: leukocytosis. Treated with IV antibiotics and supportive care."
+respiratory,Acute Bronchiolitis,"Infant with cough, rapid breathing, wheeze; viral etiology likely. Managed with oxygen, hydration, nasal suction."
+respiratory,Bronchopneumonia,"Child with fever, cough, crepitations. Patchy infiltrates on imaging. Treated with antibiotics and supportive care."
+gi_gu,Alcoholic Cirrhosis With Portal HTN + LRTI,"Adult with chronic liver disease presenting with fever, cough, and abdominal distension. Labs: anemia, thrombocytopenia, elevated liver enzymes. Imaging: cirrhosis and portal hypertension. Managed with antibiotics, diuretics, nutritional and respiratory support."
+gi_gu,Acute Pancreatitis,"Adult with severe epigastric pain radiating to back, nausea, vomiting. Labs: high amylase/lipase. Ultrasound: inflamed pancreas. Treated with bowel rest, IV fluids, PPIs, analgesia."
+gi_gu,Acute Gastroenteritis,"Adult with watery diarrhea, vomiting, and abdominal cramps. Managed with rehydration, electrolyte correction, and symptomatic relief."
+gi_gu,Hyperbilirubinemia,"Adult with jaundice, dark urine, and possibly pale stools. Labs: elevated bilirubin. Managed by treating the underlying hepatic or obstructive cause."
+gi_gu,Cystitis With Acute Pancreatitis,Adult with dysuria and urinary frequency plus epigastric pain and elevated pancreatic enzymes. Treated with antibiotics for urinary infection and standard pancreatitis care.
+musculoskeletal,Grade IIIA Compound Fracture – Right Leg,"Adult with open tibia–fibula fracture, severe pain, bleeding, and deformity. Managed with resuscitation, IV antibiotics, surgical debridement, and external fixation."
+musculoskeletal,PIP Joint Subluxation – Right Middle Finger,"Adult with finger trauma causing swelling, pain, and reduced motion. X-ray shows proximal interphalangeal joint subluxation. Treated with closed reduction, splinting, and analgesics."
+musculoskeletal,Inguinal Hernia,"Adult with groin swelling, abdominal discomfort, and reducible mass. Ultrasound confirms inguinal hernia. Managed with elective hernioplasty."
+musculoskeletal,Deep Vein Thrombosis,"Adult with unilateral leg swelling, pain, and calf tenderness. Doppler shows deep vein thrombosis. Treated with anticoagulation, leg elevation, and compression therapy."

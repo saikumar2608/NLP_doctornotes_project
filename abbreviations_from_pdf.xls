@@ -1,0 +1,180 @@
+abbr,expanded
+M/F,Male/Female
+Wt,Weight
+Ht,Height
+BMI,Body Mass Index
+IP No,In-Patient number
+OP No,Out-Patient number
+DOA,Date of Admission
+DOD,Date of Discharge
+DOB,Date of Birth
+MRN,Medical Record Number
+Eth,Ethnicity
+A/P,Anterior / Posterior
+A.R.O.M,Active Range of Motion
+B/L,Bilateral
+BR,Bed Rest
+bs,Bowel Sounds
+CA,Cardiac Arrest
+CC,Chief Complaints
+C/O,Complaints of
+CP,Chest Pain
+cal,Calorie
+cath,Catheter
+CHI,Closed Head Injury
+CMT,Continuing Medication and Treatment
+CXR,Chest X-Ray
+d,Day
+d/c,Discontinue
+DC,Discharge
+DOE,Dyspnea on Exertion
+DNK,Do Not Know
+DNKA,Did Not Keep Appointment
+d/t,Due to
+ED,Emergency Department
+ER,Emergency Room
+EENT,"Eyes, Ears, Nose, Throat"
+ext,External / Exterior
+F/C,Fever and Chills
+fl,Fluid
+fld,Fluid
+FOB,Foot of Bed
+f/u,Follow-up
+FWB,Full Weight Bearing
+Fx,Fracture
+gen,General
+gest.,Gestation
+G.I.,Gastro Intestinal
+gluc,Glucose
+Gt. tr.,Gait Training
+h,Hour
+HOB,Head of Bed
+H&P,History and Physical
+imp.,Impression
+incr.,Increased
+inf,Infusion / Inferior
+int.,Internal
+I&O,Intake and Output
+irreg.,Irregular
+J,Joint
+jt.,Joint
+Lt,Left
+LM,Loose Motions
+LOE,Loss of Energy
+lat.,Lateral
+LBW,Low Birth Weight
+LOC,Loss of Consciousness
+LOS,Length of Stay
+Lx,Larynx
+L&W,Living and Well
+mdnt.,Midnight
+min,Minute
+mod,Moderate
+mss,Massage
+MVA,Motor Vehicle Accident
+n.,Nerve
+N/V,Nausea/Vomiting
+NAD,No Abnormality Detected / No Apparent Distress
+neg.,Negative
+neur.,Neurology
+NG,Nasogastric
+NKA,No Known Allergies
+NOS,Not Otherwise Specified
+NPO,Nil Per Oral
+NBM,Nil by Mouth / Nothing by Mouth
+NSA,No Specific Abnormality
+NST,Non Stress Test
+NVD,"Nausea, Vomiting, Diarrhea"
+NWB,Non Weight Bearing
+NYD,Not Yet Diagnosed
+Obs,Observation
+O/E,On Examination
+OOB,Out of Bed
+Op.,Operation
+ot.,Ear
+p&a,Percussion and Auscultation
+palp.,Palpate / Palpated / Palpable
+Path,Pathology
+PA view,Posterior-anterior view on X-ray
+PI,Present Illness / Pulmonary Insufficiency
+P. M,Afternoon / Post-mortem
+PN,Poorly Nourished
+p.o.,Per Oral / By Mouth
+p.o.d.,Post Operative Day
+pos.,Positive
+post.,Posterior
+Pre-op,Pre-operative
+Post-op,Post-operative
+prep.,Prepare for
+p.r.m.,According to Circumstances
+p.r.n.,As Often as Necessary / As Needed
+PRN,As Often as Necessary / As Needed
+prod.,Productive
+Prog.,Prognosis
+PROM,Passive Range of Motion
+prosth.,Prosthesis
+PTA,Prior to Admission
+Px,Physical Examination
+PX,Physical Examination
+q,Every
+rad.,Radial
+r.a.m.,Rapid Alternating Movements
+R.A.S.,Right Arm Sitting
+RD,Respiratory Distress
+RO,Rule Out
+R/O,Rule Out
+ROS,Review of Symptoms
+Rt,Right
+RAtx,Radiation Therapy
+RUE,Right Upper Extremity
+LUE,Left Upper Extremity
+RLE,Right Lower Extremity
+LLE,Left Lower Extremity
+Scc,Squamous Cell Carcinoma
+SCD,Sudden Cardiac Death
+SOB,Shortness of Breath
+S/P,Status Post
+s/p,Status Post
+Sp. fl.,Spinal Fluid
+STD,Sexually Transmitted Disease
+Sx,Symptoms
+Syst.,Systolic
+sp. cd.,Spinal Cord
+spont.,Spontaneous
+s/s,Signs and Symptoms
+sup.,Superior
+surg.,Surgery / Surgical
+Sys.,System
+Sz,Seizures
+THR,Total Hip Replacement
+TIA,Transient Ischemic Attack
+TKR,Total Knee Replacement
+TPN,Total Parenteral Nutrition
+T&A,Tonsils and Adenoids / Tonsillectomy and Adenoidectomy
+TB,Tuberculosis
+Unilat.,Unilateral
+u/o,Under Observation
+Ur.,Urine
+URD,Upper Respiratory Disease
+URTI,Upper Respiratory Tract Infection
+URI,Upper Respiratory Infection
+UTI,Urinary Tract Infection
+U/A,Urine Analysis
+UCD,Usual Childhood Diseases
+UCHD,Usual Childhood Diseases
+Urol.,Urology
+UE,Upper Extremity
+VA,Visual Acuity
+vag,Vagina / Vaginal
+vent.,Ventilator
+VF,Visual Fields / Ventricular Fibrillation
+VC,Vital Capacity
+VD,Venereal Disease
+w,Week
+wk,Week
+w/n,Within
+WNL,Within Normal Limits
+w/u,Workup
+x,Since / Times
+y.o,Years Old
+yrs.,Years
